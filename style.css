@@ -1,5 +1,6 @@
-@import url(http://allfont.ru/allfont.css?fonts=a_avantelt-demibold);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+
 @import  "grid.css";
 
 
@@ -88,6 +89,7 @@
  }
 .text h1 {
      font-size: 1.9em;
+    font-family: 'Lobster', cursive;
  }
 
 .text h6 {
@@ -95,6 +97,7 @@
   border-bottom: 1 px dotted #29d3d4;
  padding-bottom: 20 px;
   margin: 0;
+    font-family: 'Indie Flower', cursive;
  }
 .text img{
      width: 70%;

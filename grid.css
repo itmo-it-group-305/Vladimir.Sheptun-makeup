@@ -46,3 +46,11 @@
    .offset-10 { margin-left: 83.3333333333% }
    .offset-11 { margin-left: 91.6666666667% }
    .offset-12 { margin-left: 100% }
+
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lobster'), local('Lobster-Regular'), url(https://fonts.gstatic.com/s/lobster/v15/c28rH3kclCLEuIsGhOg7evY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
